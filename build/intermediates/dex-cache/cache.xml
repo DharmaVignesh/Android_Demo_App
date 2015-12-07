@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\drajagopal\Desktop\JSON_Demo-master\JSON_Demo-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\libs\internal_impl-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="C:\Users\drajagopal\Desktop\JSON_Demo-master\JSON_Demo-master\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.0-399c128fba7263cba9690e1741e20dd8bdd9bd61.jar" />
+    </item>
+    <item
+        jar="D:\Eclipse IDE\Android Studio\SDK\extras\android\m2repository\com\android\support\support-annotations\23.1.0\support-annotations-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="92e3fc113ec3ee36b64603a38857b95700025633">
+        <dex dex="C:\Users\drajagopal\Desktop\JSON_Demo-master\JSON_Demo-master\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.0-fea5b5423276862c32247d9d226107ebd2e416ec.jar" />
+    </item>
+    <item
+        jar="C:\Users\drajagopal\Desktop\Android Demo App\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\libs\internal_impl-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="C:\Users\drajagopal\Desktop\Android Demo App\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.0-6ba1e61bf778aa0a44f875e03d6e1c82c32ccfeb.jar" />
+    </item>
+    <item
+        jar="C:\Users\drajagopal\Desktop\Android Demo App\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="C:\Users\drajagopal\Desktop\Android Demo App\app\build\intermediates\pre-dexed\debug\classes-0b1aca2ccaeb938340f9fd2ff4d1bb4d399ead85.jar" />
+    </item>
+    <item
+        jar="C:\Users\drajagopal\Desktop\JSON_Demo-master\JSON_Demo-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="C:\Users\drajagopal\Desktop\JSON_Demo-master\JSON_Demo-master\app\build\intermediates\pre-dexed\debug\classes-b53557361b310a3d0951c286993d62bf1dbdd188.jar" />
+    </item>
+    <item
+        jar="C:\Users\drajagopal\Desktop\JSON_Demo-master\JSON_Demo-master\app\libs\httpcore-4.4.3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e876a79d561e5c6207b78d347e198c8c4531a5e5">
+        <dex dex="C:\Users\drajagopal\Desktop\JSON_Demo-master\JSON_Demo-master\app\build\intermediates\pre-dexed\debug\httpcore-4.4.3-da915c2a13871dae492c1b3b60833dc1efbb20de.jar" />
+    </item>
+    <item
+        jar="C:\Users\drajagopal\Desktop\JSON_Demo-master\JSON_Demo-master\app\libs\httpclient-4.5.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="7e3cecc566df91338c6c67883b89ddd05a17db43">
+        <dex dex="C:\Users\drajagopal\Desktop\JSON_Demo-master\JSON_Demo-master\app\build\intermediates\pre-dexed\debug\httpclient-4.5.1-36dba8b2303dc5d582170c66a855b6a78fd5a2c8.jar" />
+    </item>
+    <item
+        jar="C:\Users\drajagopal\Desktop\Android Demo App\app\libs\httpcore-4.4.3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e876a79d561e5c6207b78d347e198c8c4531a5e5">
+        <dex dex="C:\Users\drajagopal\Desktop\Android Demo App\app\build\intermediates\pre-dexed\debug\httpcore-4.4.3-6aaea5cf4d98e8b656d2f3ff2b664bd5cd363a48.jar" />
+    </item>
+    <item
+        jar="C:\Users\drajagopal\Desktop\Android Demo App\app\libs\httpclient-4.5.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="7e3cecc566df91338c6c67883b89ddd05a17db43">
+        <dex dex="C:\Users\drajagopal\Desktop\Android Demo App\app\build\intermediates\pre-dexed\debug\httpclient-4.5.1-016d417b88b65b45687dc8216f08df03347f888f.jar" />
+    </item>
+
+</items>
